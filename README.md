@@ -1,16 +1,13 @@
-### Hi there 👋
+### Tiago G. Ribeiro
 
-<!--
-**tiagogribeiro/tiagogribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor desde 2002, desenvolvendo sua primeiro aplicação para controle de romaneio em uma transportadora com a linguagem CLIPPER.
 
-Here are some ideas to get you started:
+Nos dias de hoje, trabalho diretamente com arquitetura e design de software, a 4 anos estudando somente sobre o assunto sem se dedicar a linguagens específicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conhecimentos:
+- Javascript
+- Java
+- COS (Caché Object Script)
+- CSP (Caché Server Pages)
+- PHP
+
