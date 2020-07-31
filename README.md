@@ -15,5 +15,5 @@ Nos dias de hoje, trabalho diretamente com arquitetura e design de software, a 4
 - CSP (Caché Server Pages)
 - PHP
 
-Adepto do manifesto de artesania de software
+Adepto do manifesto de artesania de software  
 ¨It’s a lifestyle where developers choose to be responsible for their own careers and for improving their craft, constantly learning new tools and techniques. Software Craftsmanship is all about putting responsibility, professionalism, pragmatism and pride back into software development.¨
